@@ -1,17 +1,15 @@
-## Car Detection
-
-Using YOLO (You Only Look Once)
+# Car Detection Using YOLO (You Only Look Once)
 
 ### Labelled Training Example
 
-![Labelled Training Example](./Examples/Training\ Example.png)
+![Labelled Training Example](./Example/TrainingExample.png)
 
 
 ### Predicted Bounding Boxes on test images
 
-![Predicted Bounding Boxes on test images](./Examples/Output\ Example.png)
+![Predicted Bounding Boxes on test images](./Example/OutputExample.png)
 
 
-#### Tensorboard logs are stored in ./logs
+* Tensorboard logs are stored in ./logs
 
-#### Data is in ./data
+* Data is in ./data
